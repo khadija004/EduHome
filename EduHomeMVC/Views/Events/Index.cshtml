@@ -1,0 +1,62 @@
+﻿@model Paginate<Event>
+@{
+    ViewData["Title"] = "Event Page";
+}
+
+<!-- Banner Area Start -->
+@await Component.InvokeAsync("BannerArea", "Events")
+<!-- Banner Area End -->
+<!-- Event Start -->
+<div class="event-area three text-center pt-150 pb-150">
+    <div class="container">
+        <div class="row">
+            @foreach (var eventt in Model.Datas)
+            {
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-event mb-60">
+                        <div class="event-img">
+                            <a asp-action="Details" asp-route-id="@eventt.Id">
+                                <img src="~/assets/img/event/@eventt.Image" style="height: 250px;" alt="event">
+                                <div class="course-hover">
+                                    <i class="fa fa-link"></i>
+                                </div>
+                            </a>
+                            <div class="event-date">
+                                <h3>@eventt.Date.ToString("m").Split(" ").LastOrDefault() <span>@eventt.Date.ToString("m").Split(" ").FirstOrDefault().Substring(0,3)</span></h3>
+                            </div>
+                        </div>
+                        <div class="event-content text-left">
+                            <h4><a asp-action="Details" asp-route-id="@eventt.Id">@eventt.Id @eventt.Name</a></h4>
+                            <ul>
+                                <li><span>time:</span> @eventt.Date.ToString("t")</li>
+                                <li><span>venue</span> @eventt.Venue</li>
+                            </ul>
+                            <div class="event-content-right">
+                                <a class="default-btn" asp-action="Details" asp-route-id="@eventt.Id">join now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="row my-3" style="justify-content: center;">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination justify-content-center" style="display: flex;">
+                    <li class="page-item">
+                        <a class="page-link @(Model.HasPrevious ? "": "disabled")" asp-action="Index" asp-route-take="@ViewBag.Take" asp-route-page="@(Model.CurrentPage-1)">Previous</a>
+                    </li>
+                    @for (int i = 1; i <= Model.TotalPage; i++)
+                    {
+                        <li class="page-item">
+                            <a class="page-link @(i == Model.CurrentPage ? "disabled" : "")" asp-action="Index"asp-route-take="@ViewBag.Take" asp-route-page="@i">@i</a>
+                        </li>
+                    }
+                    <li class="page-item">
+                        <a class="page-link @(Model.HasNext ? "": "disabled")" asp-action="Index" asp-route-take="@ViewBag.Take" asp-route-page="@(Model.CurrentPage+1)">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Event End -->

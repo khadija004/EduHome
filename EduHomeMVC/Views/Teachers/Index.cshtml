@@ -1,0 +1,61 @@
+﻿@model Paginate<TeacherListVM>
+@{
+    ViewData["Title"] = "Teachers Page";
+}
+
+<!-- Banner Area Start -->
+@await Component.InvokeAsync("BannerArea", "Teachers")
+<!-- Banner Area End -->
+<!-- Teacher Start -->
+<div class="teacher-area pt-150 pb-105">
+    <div class="container">
+        <div class="row">
+            @foreach (var teacher in Model.Datas)
+            {
+                <div class="col-md-3 col-sm-4 col-xs-12">
+                    <div class="single-teacher mb-45">
+                        <div class="single-teacher-img">
+                            <a asp-action="basket" asp-route-id="@teacher.Id"><img src="~/assets/img/teacher/@teacher.Image" alt="teacher"></a>
+                        </div>
+                        <div class="single-teacher-content text-center">
+                            <h2><a asp-action="basket" asp-route-id="@teacher.Id">@teacher.Id   @teacher.Name.ToString().ToUpper()</a></h2>
+                            <h4>@teacher.Position</h4>
+                            <ul>
+                                <li><a href="https://www.facebook.com/@teacher.Facebook"><i class="zmdi zmdi-facebook"></i></a></li>
+                                <li><a href="https://www.pinterest.com/@teacher.Pinterest"><i class="zmdi zmdi-pinterest"></i></a></li>
+                                <li><a href="https://www.instagram.com/@teacher.Instagram"><i class="zmdi zmdi-instagram"></i></a></li>
+                                <li><a href="https://twitter.com/@teacher.Twitter"><i class="zmdi zmdi-twitter"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="row my-3" style="justify-content: center;">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination justify-content-center" style="display: flex;">
+                    <li class="page-item">
+                        <a class="page-link @(Model.HasPrevious ? "": "disabled")" asp-action="Index" asp-route-take="@ViewBag.Take" asp-route-page="@(Model.CurrentPage-1)">Previous</a>
+                    </li>
+                    @for (int i = 1; i <= Model.TotalPage; i++)
+                    {
+                        if (Model.CurrentPage - i < 3 || i - Model.CurrentPage > 3)
+                        {
+                            if (Model.CurrentPage - i >= 0){
+                                <li class="page-item">
+                                    <a class="page-link @(i == Model.CurrentPage ? "disabled" : "")" asp-action="Index"asp-route-take="@ViewBag.Take" asp-route-page="@i">@i</a>
+                             </li>}
+                        }
+
+                        
+                        
+                    }
+                    <li class="page-item">
+                        <a class="page-link @(Model.HasNext ? "": "disabled")" asp-action="Index" asp-route-take="@ViewBag.Take" asp-route-page="@(Model.CurrentPage+1)">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Teacher End -->

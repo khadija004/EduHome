@@ -1,0 +1,28 @@
+﻿@model TestimonialVM
+<!-- Testimonial Area Start -->
+<div class="testimonial-area pt-110 pb-105 text-center" style="background: url(/assets/img/testimonial/@Model.Images["TestimonialBackgroundImage"]);">
+    <div class="container">
+        <div class="row">
+            <div class="testimonial-owl owl-theme owl-carousel">
+                @foreach (var testimonial in Model.Testimonials)
+                {
+                    <div class="col-md-8 col-md-offset-2 col-sm-12">
+                        <div class="single-testimonial">
+                            <div class="testimonial-info">
+                                <div class="testimonial-img">
+                                    <img src="~/assets/img/testimonial/@testimonial.Image" alt="testimonial">
+                                </div>
+                                <div class="testimonial-content">
+                                    <p>@testimonial.Text</p>
+                                    <h4>@testimonial.WriterFullname</h4>
+                                    <h5>@testimonial.Position</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial Area End -->

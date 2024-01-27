@@ -1,0 +1,475 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EduHomeMVC
+build_property.RootNamespace = EduHomeMVC
+build_property.ProjectDir = C:\Users\oismayilov\Desktop\EduHome\EduHomeMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\oismayilov\Desktop\EduHome\EduHomeMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/AboutVCs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEFib3V0VkNzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/AboutVCs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEFib3V0VkNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/AboutVCs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEFib3V0VkNzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/AboutVCs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEFib3V0VkNzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/AboutVCs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEFib3V0VkNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/BackgroundImages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJhY2tncm91bmRJbWFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/BackgroundImages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJhY2tncm91bmRJbWFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/BackgroundImages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJhY2tncm91bmRJbWFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/BackgroundImages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJhY2tncm91bmRJbWFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/BackgroundImages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJhY2tncm91bmRJbWFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Blogs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Blogs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Blogs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Blogs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Blogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvbW1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvbW1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Comments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvbW1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvbW1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvbW1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEV2ZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEV2ZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEV2ZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEV2ZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEV2ZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVCs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZDc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVCs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZDc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVCs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZDc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVCs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZDc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVCs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZDc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVideoVCs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZpZGVvVkNzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVideoVCs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZpZGVvVkNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVideoVCs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZpZGVvVkNzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVideoVCs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZpZGVvVkNzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/NoticeVideoVCs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVZpZGVvVkNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Settings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNldHRpbmdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Settings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNldHRpbmdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Settings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNldHRpbmdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Settings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNldHRpbmdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Settings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNldHRpbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNoYXJlZFxfQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Skills/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNraWxsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Skills/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNraWxsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Skills/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNraWxsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Skills/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNraWxsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Skills/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNraWxsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Sliders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Sliders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Sliders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Sliders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Sliders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherContactInfoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJDb250YWN0SW5mb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherContactInfoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJDb250YWN0SW5mb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherContactInfoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJDb250YWN0SW5mb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherContactInfoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJDb250YWN0SW5mb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherContactInfoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJDb250YWN0SW5mb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TeacherDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Teachers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Teachers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Teachers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Teachers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlYWNoZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TestimonialVCs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsVkNzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TestimonialVCs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsVkNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TestimonialVCs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsVkNzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TestimonialVCs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsVkNzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/TestimonialVCs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsVkNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Areas/EduHomeAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Account/EmailVerification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFbWFpbFZlcmlmaWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Account/ForgotPasswordConfirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Blogs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Blogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Blogs/IndexWithSideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcSW5kZXhXaXRoU2lkZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Events/IndexWithSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEluZGV4V2l0aFNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Components/About/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Components/BannerArea/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmFubmVyQXJlYVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Components/Header/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Components/NoticeBoard/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTm90aWNlQm9hcmRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Components/Sidebar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2lkZWJhclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Components/Subscribe/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3Vic2NyaWJlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Components/Testimonial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/_NotificationPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/_ValidationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Teachers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/Teachers/Test123.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcVGVzdDEyMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/oismayilov/Desktop/EduHome/EduHomeMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,115 @@
+﻿@model EventDetailsVM
+@{
+    ViewData["Title"] = "Event Details";
+}
+
+<!-- Banner Area Start -->
+@await Component.InvokeAsync("BannerArea", "Event Details")
+<!-- Banner Area End -->
+<!-- Event Details Start -->
+<div class="event-details-area blog-area pt-150 pb-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="event-details">
+                    <div class="event-details-img">
+                        <img src="~/assets/img/event/@Model.Event.Image" style="height: 360px;width: 100%;" alt="event-details">
+                        <div class="event-date">
+                            <h3>@Model.Event.Date.ToString("m").Split(" ").LastOrDefault() <span>@Model.Event.Date.ToString("m").Split(" ").FirstOrDefault().ToString().Substring(0,3)</span></h3>
+                        </div>
+                    </div>
+                    <div class="event-details-content">
+                        <h2>@Model.Event.Name.ToString().ToUpper()</h2>
+                        <ul>
+                            <li><span>time : </span>@Model.Event.Date.ToString("t")</li>
+                            <li><span>venue : </span>@Model.Event.Venue</li>
+                        </ul>
+                        <p>@Model.Event.Description</p>
+                        <div class="speakers-area fix">
+                            <h4>speakers</h4>
+                            @foreach (var speaker in Model.Event.EventSpeakers)
+                            {
+                                <div class="single-speaker">
+                                    <div class="speaker-img">
+                                        <img src="~/assets/img/event/@speaker.Speaker.Image" alt="speaker">
+                                    </div>
+                                    <div class="speaker-name">
+                                        <h5>@speaker.Speaker.Name</h5>
+                                        <p>@speaker.Speaker.Occupation</p>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <div class="reply-area">
+                        <h3>Comments</h3>
+                        @foreach (var comment in Model.PaginatedComments.Datas)
+                        {
+                            if (comment.EventId == Model.Event.Id && comment != null)
+                            {
+                                <h4>@comment.Name</h4>
+                                <p>@comment.Message</p>
+                            }
+                        }
+                        <div class="row my-3" style="justify-content: center;">
+                            <nav aria-label="Page navigation example">
+                                <ul class="pagination justify-content-center" style="display: flex;">
+                                    <li class="page-item">
+                                        <a class="page-link @(Model.PaginatedComments.HasPrevious ? "": "disabled")" asp-action="Details" asp-route-take="@ViewBag.Take" asp-route-page="@(Model.PaginatedComments.CurrentPage-1)">Previous</a>
+                                    </li>
+                                    @for (int i = 1; i <= Model.PaginatedComments.TotalPage; i++)
+                                    {
+                                        <li class="page-item">
+                                            <a class="page-link @(i == Model.PaginatedComments.CurrentPage ? "disabled" : "")" asp-action="Details" asp-route-take="@ViewBag.Take" asp-route-page="@i">@i</a>
+                                        </li>
+                                    }
+                                    <li class="page-item">
+                                        <a class="page-link @(Model.PaginatedComments.HasNext ? "": "disabled")" asp-action="Details" asp-route-take="@ViewBag.Take" asp-route-page="@(Model.PaginatedComments.CurrentPage+1)">Next</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <h3>LEAVE A Comment</h3>
+                        <form id="contact-form" action="http://demo.devitems.com/eduhome/mail.php" method="post">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <p>Name</p>
+                                    <input type="text" name="name" id="name">
+                                </div>
+                                <div class="col-md-12">
+                                    <p>Email</p>
+                                    <input type="text" name="email" id="email">
+                                </div>
+                                <div class="col-md-12">
+                                    <p>Subject</p>
+                                    <input type="text" name="subject" id="subject">
+                                    <p>Massage</p>
+                                    <textarea name="message" id="message" cols="15" rows="10"></textarea>
+                                </div>
+                            </div>
+                            <a class="reply-btn" href="#" data-text="send"><span>leave a comment</span></a>
+                            <p class="form-messege"></p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="blog-sidebar right">
+                    <div class="single-blog-widget mb-50">
+                        <h3>search</h3>
+                        <div class="blog-search">
+                            <form id="search" action="#">
+                                <input type="search" placeholder="Search..." name="search" />
+                                <button type="submit">
+                                    <span><i class="fa fa-search"></i></span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                    @await Component.InvokeAsync("Sidebar")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Event Details End -->

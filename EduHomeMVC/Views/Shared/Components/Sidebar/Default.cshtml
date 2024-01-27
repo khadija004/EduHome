@@ -1,0 +1,37 @@
+﻿@model SidebarVM
+
+<div class="single-blog-widget mb-50">
+    <h3>categories</h3>
+    <ul>
+        @foreach (var category in Model.Categories)
+        {
+            <li><a asp-controller="Courses" asp-action="Index" asp-route-searchedCourse="@category.Name">@category.Name.ToString().ToUpper() (@category.Courses.Count())</a></li>
+        }
+    </ul>
+</div>
+<div class="single-blog-widget mb-50">
+    <div class="single-blog-banner">
+        <a asp-controller="Blogs" asp-action="Details" asp-route-id="@Model.Blogs.Datas.FirstOrDefault().Id" id="blog"><img src="~/assets/img/blog/@Model.Blogs.Datas.FirstOrDefault().BlogImages.FirstOrDefault(bi => bi.IsMain).Image" alt="blog"></a>
+        <h2>@Model.Blogs.Datas.FirstOrDefault().Title</h2>
+    </div>
+</div>
+<div class="single-blog-widget mb-50">
+    <h3>latest post</h3>
+    @foreach (var blog in Model.Blogs.Datas)
+    {
+        <div class="single-post mb-30">
+            <div class="single-post-img">
+                <a asp-action="Details" asp-route-id="@blog.Id">
+                    <img style="width:85px; height:75px;" src="~/assets/img/blog/@blog.BlogImages.FirstOrDefault(bi => bi.IsMain).Image" alt="post">
+                    <div class="blog-hover">
+                        <i class="fa fa-link"></i>
+                    </div>
+                </a>
+            </div>
+            <div class="single-post-content">
+                <h4><a asp-action="Details" asp-route-id="@blog.Id">@blog.Title</a></h4>
+                <p>By @blog.Author  /  @blog.Date</p>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,45 @@
+﻿@using Microsoft.AspNetCore.Http
+@using Newtonsoft.Json
+
+@{
+    List<BasketVM> basketVMs = null;
+
+    if (Context.Request.Cookies["basket"] != null)
+    {
+        basketVMs = JsonConvert.DeserializeObject<List<BasketVM>>(Context.Request.Cookies["basket"]);
+    }
+}
+<ul>
+    @if (basketVMs != null)
+    {
+        @foreach (var basketVM in basketVMs)
+        {
+            <li>
+                <p>
+                    Id
+                </p>
+                <p>
+                    @basketVM.Id
+                </p>
+                <p>
+                    Name
+                </p>
+                <p>
+                    @basketVM.Name
+                </p>
+                <p>
+                    Count
+                </p>
+                <p>
+                    @basketVM.Count
+                </p>
+            </li>
+        }
+    }
+    else
+    {
+        <span>boshduqdu qaqa</span>
+
+    }
+
+</ul>

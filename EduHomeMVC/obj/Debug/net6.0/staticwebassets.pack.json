@@ -1,0 +1,2125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\css\\volt.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\volt.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\css\\volt.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\volt.css.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\brand\\dark.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\brand\\dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\brand\\light.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\brand\\light.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\manifest.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\favicon\\site.webmanifest",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\aland-islands.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\aland-islands.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\albania.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\albania.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\algeria.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\algeria.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\american-samoa.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\american-samoa.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\anguilla.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\anguilla.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\argentina.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\argentina.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\armenia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\armenia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\australia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\australia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\austria.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\austria.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\azerbaijan.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\azerbaijan.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\bahrain.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bahrain.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\belarus.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\belarus.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\belgium.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\belgium.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\bolivia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bolivia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\bosnia-and-herzegovina.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bosnia-and-herzegovina.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\botswana.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\botswana.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\brazil.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\brazil.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\bulgaria.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bulgaria.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\cambodia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cambodia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\cameroon.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cameroon.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\canada.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\canada.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\chile.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\chile.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\china.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\china.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\colombia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\colombia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\costa-rica.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\costa-rica.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\croatia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\croatia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\cuba.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cuba.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\cyprus.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cyprus.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\czech-republic.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\czech-republic.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\denmark.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\denmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\ecuador.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ecuador.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\egypt.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\egypt.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\estonia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\estonia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\ethiopia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ethiopia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\finland.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\finland.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\france.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\france.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\georgia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\georgia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\germany.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\germany.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\greece.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\greece.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\haiti.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\haiti.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\hong-kong.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\hong-kong.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\hungary.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\hungary.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\iceland.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\iceland.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\india.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\india.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\indonesia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\indonesia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\iran.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\iran.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\iraq.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\iraq.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\ireland.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ireland.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\israel.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\israel.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\italy.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\italy.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\ivory-coast.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ivory-coast.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\japan.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\japan.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\kazakhstan.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kazakhstan.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\kuwait.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kuwait.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\latvia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\latvia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\liechtenstein.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\liechtenstein.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\lithuania.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\lithuania.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\luxembourg.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\luxembourg.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\malaysia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\malaysia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\mexico.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mexico.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\mongolia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mongolia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\montenegro.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\montenegro.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\nauru.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nauru.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\netherlands.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\netherlands.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\nicaragua.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nicaragua.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\nigeria.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nigeria.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\norway.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\norway.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\pakistan.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pakistan.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\panama.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\panama.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\paraguay.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\paraguay.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\peru.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\peru.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\philippines.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\philippines.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\portugal.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\portugal.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\puerto-rico.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\puerto-rico.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\republic-of-macedonia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\republic-of-macedonia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\republic-of-poland.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\republic-of-poland.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\romania.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\romania.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\russia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\russia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\serbia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\serbia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\singapore.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\singapore.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\slovakia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\slovakia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\slovenia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\slovenia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\south-africa.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\south-africa.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\south-korea.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\south-korea.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\spain.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\spain.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\sri-lanka.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sri-lanka.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\sweden.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sweden.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\switzerland.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\switzerland.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\taiwan.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\taiwan.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\thailand.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\thailand.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\tunisia.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tunisia.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\turkey.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\turkey.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\ukraine.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ukraine.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\united-arab-emirates.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\united-arab-emirates.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\united-kingdom.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\united-kingdom.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\united-states-of-america.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\united-states-of-america.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\united-states.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\united-states.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\uruguay.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\uruguay.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\venezuela.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\venezuela.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\flags\\vietnam.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\vietnam.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\icons\\github.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\icons\\google-tag-manager.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\google-tag-manager.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\icons\\google_analytics.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\google_analytics.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\illustrations\\404.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\illustrations\\500.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\500.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\illustrations\\bs5-illustrations.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\bs5-illustrations.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\illustrations\\signin.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\signin.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\marker.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\marker.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\mockup-calendar-presentation.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\mockup-calendar-presentation.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\mockup-kanban-presentation.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\mockup-kanban-presentation.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\mockup-map-presentation.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\mockup-map-presentation.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\mockup-presentation.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\mockup-presentation.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\404.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\404.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\500.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\forgot-password.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\forgot-password.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\lock.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\mockup-presentation.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\mockup-presentation.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\overview.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\overview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\reset-password.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\reset-password.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\settings.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\settings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\sign-in.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\sign-in.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\sign-up.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\sign-up.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\pages\\transactions.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pages\\transactions.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\paypal-logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\paypal-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\profile-cover.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profile-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\team\\profile-picture-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team\\profile-picture-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\team\\profile-picture-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team\\profile-picture-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\team\\profile-picture-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team\\profile-picture-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\team\\profile-picture-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team\\profile-picture-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\team\\profile-picture-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team\\profile-picture-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\team\\profile-picture-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team\\profile-picture-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\technologies\\bootstrap-5-logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\technologies\\bootstrap-5-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\technologies\\react-logo-primary.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\technologies\\react-logo-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\technologies\\react-logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\technologies\\react-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\technologies\\vuejs-logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\technologies\\vuejs-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\themesberg-logo-alt.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\themesberg-logo-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\themesberg-mockup.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\themesberg-mockup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\img\\themesberg.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\themesberg.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\assets\\js\\volt.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\volt.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\enums.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\enums.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\enums.js.flow",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\enums.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper-base.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper-base.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper-base.js.flow",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper-base.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper-lite.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper-lite.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper-lite.js.flow",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper-lite.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper.js.flow",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\cjs\\popper.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\createPopper.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\createPopper.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\contains.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\contains.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getBoundingClientRect.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getBoundingClientRect.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getClippingRect.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getClippingRect.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getCompositeRect.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getCompositeRect.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getComputedStyle.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getComputedStyle.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getDocumentElement.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getDocumentElement.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getDocumentRect.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getDocumentRect.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getHTMLElementScroll.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getHTMLElementScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getLayoutRect.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getLayoutRect.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getNodeName.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getNodeName.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getNodeScroll.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getNodeScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getOffsetParent.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getOffsetParent.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getParentNode.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getParentNode.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getScrollParent.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getScrollParent.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getViewportRect.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getViewportRect.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindow.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindow.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindowScroll.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindowScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindowScrollBarX.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindowScrollBarX.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\instanceOf.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\instanceOf.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\isScrollParent.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\isScrollParent.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\isTableElement.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\isTableElement.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\listScrollParents.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\dom-utils\\listScrollParents.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\enums.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\enums.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\applyStyles.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\applyStyles.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\arrow.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\arrow.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\computeStyles.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\computeStyles.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\eventListeners.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\eventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\flip.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\flip.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\hide.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\hide.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\index.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\offset.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\offset.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\popperOffsets.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\popperOffsets.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\preventOverflow.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\modifiers\\preventOverflow.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\popper-base.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\popper-base.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\popper-lite.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\popper-lite.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\types.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\types.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\computeAutoPlacement.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\computeAutoPlacement.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\computeOffsets.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\computeOffsets.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\debounce.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\debounce.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\detectOverflow.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\detectOverflow.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\expandToHashMap.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\expandToHashMap.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\format.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\format.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getAltAxis.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getAltAxis.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getAltLen.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getAltLen.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getBasePlacement.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getBasePlacement.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getFreshSideObject.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getFreshSideObject.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getMainAxisFromPlacement.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getMainAxisFromPlacement.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getOppositePlacement.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getOppositePlacement.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getOppositeVariationPlacement.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getOppositeVariationPlacement.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getVariation.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\getVariation.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\math.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\math.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\mergeByName.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\mergeByName.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\mergePaddingObject.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\mergePaddingObject.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\orderModifiers.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\orderModifiers.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\rectToClientRect.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\rectToClientRect.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\uniqueBy.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\uniqueBy.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\validateModifiers.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\validateModifiers.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\within.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\esm\\utils\\within.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\umd\\enums.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\umd\\enums.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\umd\\enums.min.js.flow",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\umd\\enums.min.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper-base.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper-base.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper-base.min.js.flow",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper-base.min.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper-lite.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper-lite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper-lite.min.js.flow",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper-lite.min.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper.min.js.flow",
+      "PackagePath": "staticwebassets\\admin\\vendor\\@popperjs\\core\\dist\\umd\\popper.min.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\chartist\\dist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chartist\\dist\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\chartist\\dist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chartist\\dist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\notyf\\notyf.es.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\notyf\\notyf.es.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\notyf\\notyf.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\notyf\\notyf.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\notyf\\notyf.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\notyf\\notyf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\notyf\\notyf.umd.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\notyf\\notyf.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\nouislider\\dist\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\nouislider\\dist\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\nouislider\\dist\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\nouislider\\dist\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\nouislider\\dist\\nouislider.min.mjs",
+      "PackagePath": "staticwebassets\\admin\\vendor\\nouislider\\dist\\nouislider.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\nouislider\\dist\\nouislider.mjs",
+      "PackagePath": "staticwebassets\\admin\\vendor\\nouislider\\dist\\nouislider.mjs"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\onscreen\\dist\\index.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\onscreen\\dist\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\onscreen\\dist\\on-screen.es6.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\onscreen\\dist\\on-screen.es6.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\onscreen\\dist\\on-screen.umd.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\onscreen\\dist\\on-screen.umd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\sass\\sass.dart.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\sass\\sass.dart.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\sass\\sass.default.dart.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\sass\\sass.default.dart.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\sass\\sass.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\sass\\sass.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\simplebar\\dist\\simplebar-core.esm.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\simplebar\\dist\\simplebar-core.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\simplebar\\dist\\simplebar.esm.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\simplebar\\dist\\simplebar.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\simplebar\\dist\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\simplebar\\dist\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\simplebar\\dist\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\simplebar\\dist\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\simplebar\\dist\\simplebar.umd.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\simplebar\\dist\\simplebar.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\smooth-scroll\\dist\\smooth-scroll.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\smooth-scroll\\dist\\smooth-scroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\smooth-scroll\\dist\\smooth-scroll.polyfills.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\smooth-scroll\\dist\\smooth-scroll.polyfills.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\sweetalert2\\dist\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\sweetalert2\\dist\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\sweetalert2\\dist\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\sweetalert2\\dist\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\sweetalert2\\dist\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\sweetalert2\\dist\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker-bs4.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker-bs4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker-bs5.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker-bs5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker-bulma.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker-bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker-foundation.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker-foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\css\\datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\datepicker-full.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\datepicker-full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ar-DZ.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ar-DZ.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ar-tn.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\az.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\bm.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\bm.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\bn.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\br.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\br.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\bs.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\cy.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\da.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\de.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\el.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-AU.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-AU.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-CA.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-CA.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-GB.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-GB.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-IE.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-IE.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-NZ.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-NZ.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-ZA.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\en-ZA.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\eo.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\es.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\et.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fo.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fr-CH.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fr-CH.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\he.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\hi.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\hy.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\hy.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\id.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\is.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\it-CH.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\it-CH.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\it.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ka.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\kk.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\km.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\me.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\me.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\mk.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\mn.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\mr.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\mr.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ms.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\nl-BE.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\nl-BE.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\no.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\oc.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\pt-BR.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\si.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sl.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sw.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\sw.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ta.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\ta.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\tg.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\tg.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\th.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\tk.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\uz-cyrl.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\uz-cyrl.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\uz-latn.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\uz-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\zh-CN.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\zh-CN.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\zh-TW.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\vanillajs-datepicker\\dist\\js\\locales\\zh-TW.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\lib\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\lib\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\lib\\noframework.waypoints.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\lib\\noframework.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\lib\\shortcuts\\infinite.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\lib\\shortcuts\\infinite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\lib\\shortcuts\\inview.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\lib\\shortcuts\\inview.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\lib\\shortcuts\\sticky.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\lib\\shortcuts\\sticky.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\lib\\waypoints.debug.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\lib\\waypoints.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\lib\\zepto.waypoints.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\lib\\zepto.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\licenses.txt",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\licenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\admin\\vendor\\waypoints\\testem.json",
+      "PackagePath": "staticwebassets\\admin\\vendor\\waypoints\\testem.json"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\et-line-icon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\et-line-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\reset.css",
+      "PackagePath": "staticwebassets\\assets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\about\\about.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog-detail.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-detail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\blog\\blog9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\choose\\choose-bd.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\choose\\choose-bd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\choose\\choose.png",
+      "PackagePath": "staticwebassets\\assets\\img\\choose\\choose.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\contact\\contact1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact1.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\contact\\contact2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact2.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\contact\\contact3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact3.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\course9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\course9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\course\\courses-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\event9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\speaker1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\speaker1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\event\\speaker2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\speaker2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\footer\\footer1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\footer1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\footer\\footer2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\footer2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\footer\\footer3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\footer3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\footer\\footer4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer\\footer4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\icon\\EduHome_title_icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\EduHome_title_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\logo\\footer-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\notice\\video.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\notice\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\post\\post1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\post\\post2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\post\\post3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\slider\\home.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\0dc6d68f-d767-430c-868a-061c5e1b230f_product-image-6-346x310.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\0dc6d68f-d767-430c-868a-061c5e1b230f_product-image-6-346x310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\70c24d94-1451-48c6-aefd-a591677ec91f_product-image-6-346x310.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\70c24d94-1451-48c6-aefd-a591677ec91f_product-image-6-346x310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\b9a57b3c-1312-4762-a18f-9d4ccc6c034f_product-category-image-2-70x70.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\b9a57b3c-1312-4762-a18f-9d4ccc6c034f_product-category-image-2-70x70.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\fbd56106-e2df-42d5-93be-36a54d090435_product-category-image-1-70x70.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\fbd56106-e2df-42d5-93be-36a54d090435_product-category-image-1-70x70.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\teacher\\teacher9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\teacher9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\testimonial\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\img\\testimonial\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\vendor\\jquery-1.12.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\assets\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\oismayilov\\Desktop\\EduHome\\EduHomeMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EduHomeMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EduHomeMVC.props",
+      "PackagePath": "build\\EduHomeMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EduHomeMVC.props",
+      "PackagePath": "buildMultiTargeting\\EduHomeMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EduHomeMVC.props",
+      "PackagePath": "buildTransitive\\EduHomeMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

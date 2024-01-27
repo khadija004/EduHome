@@ -1,0 +1,56 @@
+﻿@model Paginate<Blog>
+@{
+    ViewData["Title"] = "Blog Page";
+}
+
+<!-- Banner Area Start -->
+@await Component.InvokeAsync("BannerArea", "Blogs")
+<!-- Banner Area End -->
+<!-- Blog Start -->
+<div class="blog-area pt-150 pb-150">
+    <div class="container">
+        <div class="row">
+            @foreach (var blog in Model.Datas)
+            {
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-blog mb-60">
+                        <div class="blog-img">
+                            <a asp-action="Details" asp-route-id="@blog.Id"><img src="~/assets/img/blog/@blog.BlogImages.FirstOrDefault(b => b.IsMain).Image" alt="blog"></a>
+                            <div class="blog-hover">
+                                <i class="fa fa-link"></i>
+                            </div>
+                        </div>
+                        <div class="blog-content">
+                            <div class="blog-top">
+                                <p>By @blog.Author  /  @blog.Date.ToLongDateString()  /  <i class="fa fa-comments-o"></i> @blog.Comments.Count()</p>
+                            </div>
+                            <div class="blog-bottom">
+                                <h2><a asp-action="Details" asp-route-id="@blog.Id">(@blog.Id) @blog.Title </a></h2>
+                                <a asp-action="Details" asp-route-id="@blog.Id">read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="row my-3" style="justify-content: center;">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination justify-content-center" style="display: flex;">
+                    <li class="page-item">
+                        <a class="page-link @(Model.HasPrevious ? "": "disabled")" asp-action="Index" asp-route-take="@ViewBag.Take" asp-route-page="@(Model.CurrentPage-1)">Previous</a>
+                    </li>
+                    @for (int i = 1; i <= Model.TotalPage; i++)
+                    {
+                        <li class="page-item">
+                            <a class="page-link @(i == Model.CurrentPage ? "disabled" : "")" asp-action="Index"asp-route-take="@ViewBag.Take" asp-route-page="@i">@i</a>
+                        </li>
+                    }
+                    <li class="page-item">
+                        <a class="page-link @(Model.HasNext ? "": "disabled")" asp-action="Index" asp-route-take="@ViewBag.Take" asp-route-page="@(Model.CurrentPage+1)">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Blog End -->

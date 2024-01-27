@@ -1,0 +1,110 @@
+﻿@model TeacherCreateVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Teacher</h4>
+<hr />
+<div class="row">
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row">
+            <div class="col-lg-5 col-md-12 ">
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PositionId" class="control-label"></label>
+                    <select asp-for="PositionId" class="form-control" asp-items="@ViewBag.PositionId"></select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="About" class="control-label"></label>
+                    <input asp-for="About" class="form-control" />
+                    <span asp-validation-for="About" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Degree" class="control-label"></label>
+                    <input asp-for="Degree" class="form-control" />
+                    <span asp-validation-for="Degree" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Experience" class="control-label"></label>
+                    <input asp-for="Experience" class="form-control" />
+                    <span asp-validation-for="Experience" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Hobbies" class="control-label"></label>
+                    <input asp-for="Hobbies" class="form-control" />
+                    <span asp-validation-for="Hobbies" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FacultyId" class="control-label"></label>
+                    <select asp-for="FacultyId" class="form-control" asp-items="@ViewBag.FacultyId"></select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PhoneNumber" class="control-label"></label>
+                    <input asp-for="PhoneNumber" class="form-control" />
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Skype" class="control-label"></label>
+                    <input asp-for="Skype" class="form-control" />
+                    <span asp-validation-for="Skype" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-12 ">
+                <div class="form-group">
+                    <label asp-for="Facebook" class="control-label"></label>
+                    <input asp-for="Facebook" class="form-control" />
+                    <span asp-validation-for="Facebook" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Pinterest" class="control-label"></label>
+                    <input asp-for="Pinterest" class="form-control" />
+                    <span asp-validation-for="Pinterest" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Instagram" class="control-label"></label>
+                    <input asp-for="Instagram" class="form-control" />
+                    <span asp-validation-for="Instagram" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Twitter" class="control-label"></label>
+                    <input asp-for="Twitter" class="form-control" />
+                    <span asp-validation-for="Twitter" class="text-danger"></span>
+                </div>
+                @for (var i = 0; i < Model.Skills.Count(); i++)
+                {
+                    <div class="form-group">
+                        <label class="control-label">@Model.Skills[i].Name</label>
+                        <input asp-for="@Model.SkillLevels" class="form-control" />
+                        <input type="hidden" asp-for="@Model.Skills[i].Id" class="form-control" />
+                        <span asp-validation-for="@Model.Skills[i]" class="text-danger"></span>
+                    </div>
+                }
+                <div class="form-group">
+                    <label asp-for="Photo" class="control-label"></label>
+                    <input asp-for="Photo" class="form-control" />
+                    <span asp-validation-for="Photo" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

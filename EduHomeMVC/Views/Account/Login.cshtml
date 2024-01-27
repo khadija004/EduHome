@@ -1,0 +1,57 @@
+﻿@model LoginVM
+@{
+    ViewData["Title"] = "Login";
+}
+
+<!-- Banner Area Start -->
+@await Component.InvokeAsync("BannerArea", "Login")
+<!-- Banner Area End -->
+<!-- Login start -->
+<div class="login-area pt-150 pb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 text-center">
+                <div class="login">
+                    <div class="login-form-container">
+                        <div class="login-text">
+                            <h2>login</h2>
+                            <span>Please login using account detail bellow.</span>
+                        </div>
+                        <div class="login-form">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <form class="pt-3" method="post" asp-action="Login">
+                                <div class="form-group">
+                                    <input asp-for="UserNameOrEmail" class="form-control form-control-lg" id="exampleInputUsername1" placeholder="Username or Email">
+                                    <span asp-validation-for="UserNameOrEmail" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <input asp-for="Password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password">
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                <div class="button-box" style="display: grid;">
+                                    <div class="login-toggle-btn">
+                                        <input type="checkbox" id="remember">
+                                        <label for="remember">Remember me</label>
+                                    </div>
+                                    <button type="submit" class="default-btn">Login</button>
+                                </div>
+                            </form>
+                            <div class="text-center my-4 font-weight-light" style="margin-top: 25px;">
+                                <a asp-action="ForgotPassword" class="text-primary">Forgot password ?</a>
+                            </div>
+                            <div class="text-center mt-4 font-weight-light" style="margin-top: 15px;">
+                                Don't you have an account? <a asp-action="Register" class="text-primary">Register</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Login end -->
+
+
+@section Scripts{
+    <partial name="_ValidationPartial" />
+}
